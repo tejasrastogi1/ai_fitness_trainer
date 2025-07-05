@@ -1,6 +1,6 @@
 <h1 align="center">💪 AI Fitness Assistant 🤖</h1>
 
-Vercel Deployed Link : https://ai-fitness-trainer-cjgt5wpys-tejas-rastogis-projects.vercel.app/
+Vercel Deployed Link : https://ai-fitness-trainer-bice.vercel.app/
 
 ## Highlights:
 
